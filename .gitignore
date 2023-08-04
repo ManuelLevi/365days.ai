@@ -1,0 +1,12 @@
+# git ignore for hugo projects
+.DS_Store
+Thumbs.db
+
+# hugo output directory
+/public
+
+# hugo server if running locally
+/hugo
+
+# lock files
+.hugo_build.lock

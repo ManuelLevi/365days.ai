@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://365days.ai/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '365Days'
 theme = 'hugo-book'
