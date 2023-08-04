@@ -10,3 +10,5 @@ Thumbs.db
 
 # lock files
 .hugo_build.lock
+
+main.py
