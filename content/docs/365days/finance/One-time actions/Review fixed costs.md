@@ -1,4 +1,4 @@
-## Review fixed costs
+# Review fixed costs
 
 Reviewing fixed costs is an essential step in optimizing one's finances. Fixed costs are expenses that remain relatively constant each month and do not vary based on usage or consumption. Identifying and managing these fixed costs can lead to significant savings over time. Here are a few usual fixed costs to review:
 
